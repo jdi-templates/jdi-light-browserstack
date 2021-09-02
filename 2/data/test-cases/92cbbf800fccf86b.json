@@ -1,12 +1,12 @@
 {
-  "uid" : "a9ea0cc23364ffa5",
-  "name" : "allDataFilterTest",
-  "fullName" : "org.mytests.tests.example.DataTableTests.allDataFilterTest",
-  "historyId" : "c1d5701b1e53e074097d642dcf48de5a",
+  "uid" : "92cbbf800fccf86b",
+  "name" : "rowsAllTest",
+  "fullName" : "org.mytests.tests.example.DataTableTests.rowsAllTest",
+  "historyId" : "8de70ce094d0395b1c90cda45532d713",
   "time" : {
-    "start" : 1630601729546,
-    "stop" : 1630601750771,
-    "duration" : 21225
+    "start" : 1630602132173,
+    "stop" : 1630602142066,
+    "duration" : 9893
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,303 +14,57 @@
   "beforeStages" : [ {
     "name" : "before",
     "time" : {
-      "start" : 1630601690928,
-      "stop" : 1630601729539,
-      "duration" : 38611
+      "start" : 1630602132075,
+      "stop" : 1630602132172,
+      "duration" : 97
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ {
       "name" : "shouldBeLoggedIn",
       "time" : {
-        "start" : 1630601690979,
-        "stop" : 1630601726644,
-        "duration" : 35665
+        "start" : 1630602132075,
+        "stop" : 1630602132171,
+        "duration" : 96
       },
       "status" : "passed",
-      "steps" : [ {
-        "name" : "Open 'Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html)",
-        "time" : {
-          "start" : 1630601703420,
-          "stop" : 1630601708456,
-          "duration" : 5036
-        },
-        "status" : "passed",
-        "steps" : [ {
-          "name" : "Open 'Home Page'(url=https://jdi-testing.github.io/jdi-light/index.html)",
-          "time" : {
-            "start" : 1630601703451,
-            "stop" : 1630601708456,
-            "duration" : 5005
-          },
-          "status" : "passed",
-          "steps" : [ ],
-          "attachments" : [ ],
-          "parameters" : [ ],
-          "stepsCount" : 0,
-          "attachmentsCount" : 0,
-          "shouldDisplayMessage" : false,
-          "hasContent" : false
-        } ],
-        "attachments" : [ {
-          "uid" : "aa5254c71b4bff9e",
-          "name" : "Details",
-          "source" : "aa5254c71b4bff9e.html",
-          "type" : "text/plain",
-          "size" : 137
-        } ],
-        "parameters" : [ ],
-        "stepsCount" : 1,
-        "attachmentsCount" : 1,
-        "shouldDisplayMessage" : false,
-        "hasContent" : true
-      }, {
-        "name" : "login",
-        "time" : {
-          "start" : 1630601710088,
-          "stop" : 1630601726644,
-          "duration" : 16556
-        },
-        "status" : "passed",
-        "steps" : [ {
-          "name" : "Click on 'User Icon'",
-          "time" : {
-            "start" : 1630601710090,
-            "stop" : 1630601716421,
-            "duration" : 6331
-          },
-          "status" : "passed",
-          "steps" : [ {
-            "name" : "Click on 'User Icon'",
-            "time" : {
-              "start" : 1630601710099,
-              "stop" : 1630601716417,
-              "duration" : 6318
-            },
-            "status" : "passed",
-            "steps" : [ {
-              "name" : "Check that 'User Icon' is disabled",
-              "time" : {
-                "start" : 1630601710102,
-                "stop" : 1630601714454,
-                "duration" : 4352
-              },
-              "status" : "passed",
-              "steps" : [ ],
-              "attachments" : [ {
-                "uid" : "70a746615f000001",
-                "name" : "Actual result",
-                "source" : "70a746615f000001.html",
-                "type" : "text/plain",
-                "size" : 5
-              } ],
-              "parameters" : [ ],
-              "stepsCount" : 0,
-              "attachmentsCount" : 1,
-              "shouldDisplayMessage" : false,
-              "hasContent" : true
-            } ],
-            "attachments" : [ ],
-            "parameters" : [ ],
-            "stepsCount" : 1,
-            "attachmentsCount" : 1,
-            "shouldDisplayMessage" : false,
-            "hasContent" : true
-          } ],
-          "attachments" : [ {
-            "uid" : "8c90b0f029e6d1e1",
-            "name" : "Details",
-            "source" : "8c90b0f029e6d1e1.html",
-            "type" : "text/plain",
-            "size" : 38
-          } ],
-          "parameters" : [ ],
-          "stepsCount" : 2,
-          "attachmentsCount" : 2,
-          "shouldDisplayMessage" : false,
-          "hasContent" : true
-        }, {
-          "name" : "Fill 'Login Form' with User(name:Roman; password:Jdi1234) and press 'enter'",
-          "time" : {
-            "start" : 1630601716422,
-            "stop" : 1630601726644,
-            "duration" : 10222
-          },
-          "status" : "passed",
-          "steps" : [ {
-            "name" : "Input 'Roman' in 'Name'",
-            "time" : {
-              "start" : 1630601716437,
-              "stop" : 1630601720317,
-              "duration" : 3880
-            },
-            "status" : "passed",
-            "steps" : [ ],
-            "attachments" : [ ],
-            "parameters" : [ ],
-            "stepsCount" : 0,
-            "attachmentsCount" : 0,
-            "shouldDisplayMessage" : false,
-            "hasContent" : false
-          }, {
-            "name" : "Input 'Jdi1234' in 'Password'",
-            "time" : {
-              "start" : 1630601720319,
-              "stop" : 1630601724188,
-              "duration" : 3869
-            },
-            "status" : "passed",
-            "steps" : [ ],
-            "attachments" : [ ],
-            "parameters" : [ ],
-            "stepsCount" : 0,
-            "attachmentsCount" : 0,
-            "shouldDisplayMessage" : false,
-            "hasContent" : false
-          }, {
-            "name" : "Submit 'Login Form' and press 'enter' button",
-            "time" : {
-              "start" : 1630601724189,
-              "stop" : 1630601726643,
-              "duration" : 2454
-            },
-            "status" : "passed",
-            "steps" : [ {
-              "name" : "Click on 'enter'",
-              "time" : {
-                "start" : 1630601724191,
-                "stop" : 1630601726643,
-                "duration" : 2452
-              },
-              "status" : "passed",
-              "steps" : [ {
-                "name" : "Check that 'enter' is disabled",
-                "time" : {
-                  "start" : 1630601724196,
-                  "stop" : 1630601725922,
-                  "duration" : 1726
-                },
-                "status" : "passed",
-                "steps" : [ ],
-                "attachments" : [ {
-                  "uid" : "d67de1fcc6b55c88",
-                  "name" : "Actual result",
-                  "source" : "d67de1fcc6b55c88.html",
-                  "type" : "text/plain",
-                  "size" : 5
-                } ],
-                "parameters" : [ ],
-                "stepsCount" : 0,
-                "attachmentsCount" : 1,
-                "shouldDisplayMessage" : false,
-                "hasContent" : true
-              } ],
-              "attachments" : [ ],
-              "parameters" : [ ],
-              "stepsCount" : 1,
-              "attachmentsCount" : 1,
-              "shouldDisplayMessage" : false,
-              "hasContent" : true
-            } ],
-            "attachments" : [ ],
-            "parameters" : [ ],
-            "stepsCount" : 2,
-            "attachmentsCount" : 1,
-            "shouldDisplayMessage" : false,
-            "hasContent" : true
-          } ],
-          "attachments" : [ {
-            "uid" : "6c4c507e00add0d",
-            "name" : "Details",
-            "source" : "6c4c507e00add0d.html",
-            "type" : "text/plain",
-            "size" : 30
-          } ],
-          "parameters" : [ ],
-          "stepsCount" : 5,
-          "attachmentsCount" : 2,
-          "shouldDisplayMessage" : false,
-          "hasContent" : true
-        } ],
-        "attachments" : [ ],
-        "parameters" : [ ],
-        "stepsCount" : 9,
-        "attachmentsCount" : 4,
-        "shouldDisplayMessage" : false,
-        "hasContent" : true
-      } ],
+      "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 12,
-      "attachmentsCount" : 5,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : true
-    }, {
-      "name" : "Open 'Users Page'(url=https://jdi-testing.github.io/jdi-light/user-table.html)",
-      "time" : {
-        "start" : 1630601726644,
-        "stop" : 1630601729539,
-        "duration" : 2895
-      },
-      "status" : "passed",
-      "steps" : [ {
-        "name" : "Open 'Users Page'(url=https://jdi-testing.github.io/jdi-light/user-table.html)",
-        "time" : {
-          "start" : 1630601726655,
-          "stop" : 1630601729539,
-          "duration" : 2884
-        },
-        "status" : "passed",
-        "steps" : [ ],
-        "attachments" : [ ],
-        "parameters" : [ ],
-        "stepsCount" : 0,
-        "attachmentsCount" : 0,
-        "shouldDisplayMessage" : false,
-        "hasContent" : false
-      } ],
-      "attachments" : [ {
-        "uid" : "433a22a8d652aaa",
-        "name" : "Details",
-        "source" : "433a22a8d652aaa.html",
-        "type" : "text/plain",
-        "size" : 148
-      } ],
-      "parameters" : [ ],
-      "stepsCount" : 1,
-      "attachmentsCount" : 1,
-      "shouldDisplayMessage" : false,
-      "hasContent" : true
+      "hasContent" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 15,
-    "attachmentsCount" : 6,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   }, {
     "name" : "setUp",
     "time" : {
-      "start" : 1630601684488,
-      "stop" : 1630601690821,
-      "duration" : 6333
+      "start" : 1630601985953,
+      "stop" : 1630601992810,
+      "duration" : 6857
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ {
       "name" : "Open 'SiteJdi'(url=https://jdi-testing.github.io/jdi-light/)",
       "time" : {
-        "start" : 1630601686178,
-        "stop" : 1630601690796,
-        "duration" : 4618
+        "start" : 1630601987965,
+        "stop" : 1630601992801,
+        "duration" : 4836
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "Open 'SiteJdi'(url=https://jdi-testing.github.io/jdi-light/)",
         "time" : {
-          "start" : 1630601689890,
-          "stop" : 1630601690795,
-          "duration" : 905
+          "start" : 1630601991882,
+          "stop" : 1630601992801,
+          "duration" : 919
         },
         "status" : "passed",
         "steps" : [ ],
@@ -322,9 +76,9 @@
         "hasContent" : false
       } ],
       "attachments" : [ {
-        "uid" : "2f06694a52f67d5c",
+        "uid" : "dcc93955b1367aab",
         "name" : "Details",
-        "source" : "2f06694a52f67d5c.html",
+        "source" : "dcc93955b1367aab.html",
         "type" : "text/plain",
         "size" : 145
       } ],
@@ -344,50 +98,50 @@
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
-      "name" : "Get all 'Users' table rows that match criteria",
+      "name" : "Assert that 'Users' all rows meet expected condition",
       "time" : {
-        "start" : 1630601731208,
-        "stop" : 1630601750769,
-        "duration" : 19561
+        "start" : 1630602132174,
+        "stop" : 1630602142065,
+        "duration" : 9891
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "Get all 'Users' rows",
         "time" : {
-          "start" : 1630601731229,
-          "stop" : 1630601750768,
-          "duration" : 19539
+          "start" : 1630602132179,
+          "stop" : 1630602142065,
+          "duration" : 9886
         },
         "status" : "passed",
         "steps" : [ {
           "name" : "Get 'Users' rows count",
           "time" : {
-            "start" : 1630601731232,
-            "stop" : 1630601734895,
-            "duration" : 3663
+            "start" : 1630602132181,
+            "stop" : 1630602133437,
+            "duration" : 1256
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'xpath='//tbody//tr[1]/td'' values",
             "time" : {
-              "start" : 1630601731579,
-              "stop" : 1630601733204,
-              "duration" : 1625
+              "start" : 1630602132263,
+              "stop" : 1630602132664,
+              "duration" : 401
             },
             "status" : "passed",
             "steps" : [ {
               "name" : "Get '' text",
               "time" : {
-                "start" : 1630601732669,
-                "stop" : 1630601732971,
-                "duration" : 302
+                "start" : 1630602132604,
+                "stop" : 1630602132614,
+                "duration" : 10
               },
               "status" : "passed",
               "steps" : [ ],
               "attachments" : [ {
-                "uid" : "c309a628f7458574",
+                "uid" : "84775f5e2b52d411",
                 "name" : "Actual result",
-                "source" : "c309a628f7458574.html",
+                "source" : "84775f5e2b52d411.html",
                 "type" : "text/plain",
                 "size" : 1
               } ],
@@ -398,9 +152,9 @@
               "hasContent" : true
             } ],
             "attachments" : [ {
-              "uid" : "305a14cf4052986b",
+              "uid" : "9f4aeb9e2942183f",
               "name" : "Actual result",
-              "source" : "305a14cf4052986b.html",
+              "source" : "9f4aeb9e2942183f.html",
               "type" : "text/plain",
               "size" : 45
             } ],
@@ -412,24 +166,24 @@
           }, {
             "name" : "Get 'Users' header",
             "time" : {
-              "start" : 1630601733206,
-              "stop" : 1630601734895,
-              "duration" : 1689
+              "start" : 1630602132664,
+              "stop" : 1630602133437,
+              "duration" : 773
             },
             "status" : "passed",
             "steps" : [ {
               "name" : "Get 'Users header' values",
               "time" : {
-                "start" : 1630601733999,
-                "stop" : 1630601734894,
-                "duration" : 895
+                "start" : 1630602133054,
+                "stop" : 1630602133437,
+                "duration" : 383
               },
               "status" : "passed",
               "steps" : [ ],
               "attachments" : [ {
-                "uid" : "1f3646604aba454d",
+                "uid" : "d5e90b3eae94ecd3",
                 "name" : "Actual result",
-                "source" : "1f3646604aba454d.html",
+                "source" : "d5e90b3eae94ecd3.html",
                 "type" : "text/plain",
                 "size" : 33
               } ],
@@ -440,9 +194,9 @@
               "hasContent" : true
             } ],
             "attachments" : [ {
-              "uid" : "7ae27c8ef3092e4d",
+              "uid" : "8b388375a776b107",
               "name" : "Actual result",
-              "source" : "7ae27c8ef3092e4d.html",
+              "source" : "8b388375a776b107.html",
               "type" : "text/plain",
               "size" : 33
             } ],
@@ -453,9 +207,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "dd98274aa8f7b60",
+            "uid" : "cf91eef630964995",
             "name" : "Actual result",
-            "source" : "dd98274aa8f7b60.html",
+            "source" : "cf91eef630964995.html",
             "type" : "text/plain",
             "size" : 1
           } ],
@@ -467,24 +221,24 @@
         }, {
           "name" : "Get row '1' for 'Users' table",
           "time" : {
-            "start" : 1630601734896,
-            "stop" : 1630601737635,
-            "duration" : 2739
+            "start" : 1630602133438,
+            "stop" : 1630602134756,
+            "duration" : 1318
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'Users line[1]' values",
             "time" : {
-              "start" : 1630601734917,
-              "stop" : 1630601736215,
-              "duration" : 1298
+              "start" : 1630602133447,
+              "stop" : 1630602133895,
+              "duration" : 448
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "7f0a88f6846d7908",
+              "uid" : "9c7c36b1d6ad5f66",
               "name" : "Actual result",
-              "source" : "7f0a88f6846d7908.html",
+              "source" : "9c7c36b1d6ad5f66.html",
               "type" : "text/plain",
               "size" : 45
             } ],
@@ -496,16 +250,16 @@
           }, {
             "name" : "Get 'Number' text",
             "time" : {
-              "start" : 1630601736976,
-              "stop" : 1630601737075,
-              "duration" : 99
+              "start" : 1630602134406,
+              "stop" : 1630602134477,
+              "duration" : 71
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "3e9d86ac4ce6c1b6",
+              "uid" : "3afa08552d983a29",
               "name" : "Actual result",
-              "source" : "3e9d86ac4ce6c1b6.html",
+              "source" : "3afa08552d983a29.html",
               "type" : "text/plain",
               "size" : 1
             } ],
@@ -517,24 +271,24 @@
           }, {
             "name" : "Get selected value",
             "time" : {
-              "start" : 1630601737076,
-              "stop" : 1630601737157,
-              "duration" : 81
+              "start" : 1630602134477,
+              "stop" : 1630602134513,
+              "duration" : 36
             },
             "status" : "passed",
             "steps" : [ {
               "name" : "Check that 'Type' is displayed",
               "time" : {
-                "start" : 1630601737076,
-                "stop" : 1630601737156,
-                "duration" : 80
+                "start" : 1630602134478,
+                "stop" : 1630602134513,
+                "duration" : 35
               },
               "status" : "passed",
               "steps" : [ ],
               "attachments" : [ {
-                "uid" : "3eacc72d961b9de0",
+                "uid" : "19e38c822181d0c",
                 "name" : "Actual result",
-                "source" : "3eacc72d961b9de0.html",
+                "source" : "19e38c822181d0c.html",
                 "type" : "text/plain",
                 "size" : 5
               } ],
@@ -545,9 +299,9 @@
               "hasContent" : true
             } ],
             "attachments" : [ {
-              "uid" : "603bcb4f9e19eed5",
+              "uid" : "63c197d38466510",
               "name" : "Actual result",
-              "source" : "603bcb4f9e19eed5.html",
+              "source" : "63c197d38466510.html",
               "type" : "text/plain",
               "size" : 5
             } ],
@@ -559,16 +313,16 @@
           }, {
             "name" : "Get 'User' text",
             "time" : {
-              "start" : 1630601737158,
-              "stop" : 1630601737285,
-              "duration" : 127
+              "start" : 1630602134514,
+              "stop" : 1630602134590,
+              "duration" : 76
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "ae84ff1c40b053b6",
+              "uid" : "cbce8720ea677901",
               "name" : "Actual result",
-              "source" : "ae84ff1c40b053b6.html",
+              "source" : "cbce8720ea677901.html",
               "type" : "text/plain",
               "size" : 5
             } ],
@@ -580,16 +334,16 @@
           }, {
             "name" : "Get 'Description' text",
             "time" : {
-              "start" : 1630601737287,
-              "stop" : 1630601737514,
-              "duration" : 227
+              "start" : 1630602134591,
+              "stop" : 1630602134686,
+              "duration" : 95
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "b6568ff9ab395b1b",
+              "uid" : "672b7982c363dd2e",
               "name" : "Actual result",
-              "source" : "b6568ff9ab395b1b.html",
+              "source" : "672b7982c363dd2e.html",
               "type" : "text/plain",
               "size" : 9
             } ],
@@ -601,16 +355,16 @@
           }, {
             "name" : "Check that 'Vip' is selected",
             "time" : {
-              "start" : 1630601737514,
-              "stop" : 1630601737635,
-              "duration" : 121
+              "start" : 1630602134686,
+              "stop" : 1630602134756,
+              "duration" : 70
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "486f4fe53306faa",
+              "uid" : "10bf9157bad20409",
               "name" : "Actual result",
-              "source" : "486f4fe53306faa.html",
+              "source" : "10bf9157bad20409.html",
               "type" : "text/plain",
               "size" : 4
             } ],
@@ -621,9 +375,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "d0bf9efedb4bf484",
+            "uid" : "d19ad1e3be0e27bb",
             "name" : "Actual result",
-            "source" : "d0bf9efedb4bf484.html",
+            "source" : "d19ad1e3be0e27bb.html",
             "type" : "text/plain",
             "size" : 75
           } ],
@@ -635,24 +389,24 @@
         }, {
           "name" : "Get row '2' for 'Users' table",
           "time" : {
-            "start" : 1630601737636,
-            "stop" : 1630601740777,
-            "duration" : 3141
+            "start" : 1630602134757,
+            "stop" : 1630602136200,
+            "duration" : 1443
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'Users line[2]' values",
             "time" : {
-              "start" : 1630601737654,
-              "stop" : 1630601738677,
-              "duration" : 1023
+              "start" : 1630602134765,
+              "stop" : 1630602135225,
+              "duration" : 460
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "297f706132ebb8bc",
+              "uid" : "c8faed7c5501e2d9",
               "name" : "Actual result",
-              "source" : "297f706132ebb8bc.html",
+              "source" : "c8faed7c5501e2d9.html",
               "type" : "text/plain",
               "size" : 52
             } ],
@@ -663,9 +417,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "a4eb5889e7907bc4",
+            "uid" : "9cd6897a9b28792b",
             "name" : "Actual result",
-            "source" : "a4eb5889e7907bc4.html",
+            "source" : "9cd6897a9b28792b.html",
             "type" : "text/plain",
             "size" : 82
           } ],
@@ -677,24 +431,24 @@
         }, {
           "name" : "Get row '3' for 'Users' table",
           "time" : {
-            "start" : 1630601740778,
-            "stop" : 1630601743091,
-            "duration" : 2313
+            "start" : 1630602136200,
+            "stop" : 1630602137327,
+            "duration" : 1127
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'Users line[3]' values",
             "time" : {
-              "start" : 1630601740793,
-              "stop" : 1630601741747,
-              "duration" : 954
+              "start" : 1630602136209,
+              "stop" : 1630602136568,
+              "duration" : 359
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "7093a88fa3e0d0ac",
+              "uid" : "e3e845357ea3aea",
               "name" : "Actual result",
-              "source" : "7093a88fa3e0d0ac.html",
+              "source" : "e3e845357ea3aea.html",
               "type" : "text/plain",
               "size" : 48
             } ],
@@ -705,9 +459,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "de5ccfc344d87574",
+            "uid" : "e3671cee35a14300",
             "name" : "Actual result",
-            "source" : "de5ccfc344d87574.html",
+            "source" : "e3671cee35a14300.html",
             "type" : "text/plain",
             "size" : 80
           } ],
@@ -719,24 +473,24 @@
         }, {
           "name" : "Get row '4' for 'Users' table",
           "time" : {
-            "start" : 1630601743092,
-            "stop" : 1630601745792,
-            "duration" : 2700
+            "start" : 1630602137328,
+            "stop" : 1630602138912,
+            "duration" : 1584
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'Users line[4]' values",
             "time" : {
-              "start" : 1630601743103,
-              "stop" : 1630601743841,
-              "duration" : 738
+              "start" : 1630602137336,
+              "stop" : 1630602137835,
+              "duration" : 499
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "601290d12aa55e92",
+              "uid" : "941eaf883efc099b",
               "name" : "Actual result",
-              "source" : "601290d12aa55e92.html",
+              "source" : "941eaf883efc099b.html",
               "type" : "text/plain",
               "size" : 76
             } ],
@@ -747,9 +501,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "5d44dc4cc6a5a48b",
+            "uid" : "81989d76b91ed1bf",
             "name" : "Actual result",
-            "source" : "5d44dc4cc6a5a48b.html",
+            "source" : "81989d76b91ed1bf.html",
             "type" : "text/plain",
             "size" : 106
           } ],
@@ -761,24 +515,24 @@
         }, {
           "name" : "Get row '5' for 'Users' table",
           "time" : {
-            "start" : 1630601745793,
-            "stop" : 1630601748430,
-            "duration" : 2637
+            "start" : 1630602138913,
+            "stop" : 1630602140439,
+            "duration" : 1526
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'Users line[5]' values",
             "time" : {
-              "start" : 1630601745808,
-              "stop" : 1630601746729,
-              "duration" : 921
+              "start" : 1630602138922,
+              "stop" : 1630602139336,
+              "duration" : 414
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "23bd3b63f87ca812",
+              "uid" : "3bf8ef5cd07d8494",
               "name" : "Actual result",
-              "source" : "23bd3b63f87ca812.html",
+              "source" : "3bf8ef5cd07d8494.html",
               "type" : "text/plain",
               "size" : 70
             } ],
@@ -789,9 +543,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "c70dca88ffe684c0",
+            "uid" : "22d12e041768a34c",
             "name" : "Actual result",
-            "source" : "c70dca88ffe684c0.html",
+            "source" : "22d12e041768a34c.html",
             "type" : "text/plain",
             "size" : 100
           } ],
@@ -803,24 +557,24 @@
         }, {
           "name" : "Get row '6' for 'Users' table",
           "time" : {
-            "start" : 1630601748431,
-            "stop" : 1630601750767,
-            "duration" : 2336
+            "start" : 1630602140440,
+            "stop" : 1630602142064,
+            "duration" : 1624
           },
           "status" : "passed",
           "steps" : [ {
             "name" : "Get 'Users line[6]' values",
             "time" : {
-              "start" : 1630601748445,
-              "stop" : 1630601749228,
-              "duration" : 783
+              "start" : 1630602140452,
+              "stop" : 1630602141022,
+              "duration" : 570
             },
             "status" : "passed",
             "steps" : [ ],
             "attachments" : [ {
-              "uid" : "eae6fffface57796",
+              "uid" : "2f12010d85b9a61e",
               "name" : "Actual result",
-              "source" : "eae6fffface57796.html",
+              "source" : "2f12010d85b9a61e.html",
               "type" : "text/plain",
               "size" : 68
             } ],
@@ -831,9 +585,9 @@
             "hasContent" : true
           } ],
           "attachments" : [ {
-            "uid" : "451af69b441b24d4",
+            "uid" : "fe1a829bc0fc90c5",
             "name" : "Actual result",
-            "source" : "451af69b441b24d4.html",
+            "source" : "fe1a829bc0fc90c5.html",
             "type" : "text/plain",
             "size" : 98
           } ],
@@ -844,9 +598,9 @@
           "hasContent" : true
         } ],
         "attachments" : [ {
-          "uid" : "bc66e6766b2ddf1",
+          "uid" : "f9c35ffe214ff18d",
           "name" : "Actual result",
-          "source" : "bc66e6766b2ddf1.html",
+          "source" : "f9c35ffe214ff18d.html",
           "type" : "text/plain",
           "size" : 553
         } ],
@@ -857,36 +611,30 @@
         "hasContent" : true
       } ],
       "attachments" : [ {
-        "uid" : "4c6616eac1125f74",
+        "uid" : "b6f3292eed065c31",
         "name" : "Details",
-        "source" : "4c6616eac1125f74.html",
+        "source" : "b6f3292eed065c31.html",
         "type" : "text/plain",
         "size" : 35
-      }, {
-        "uid" : "7d8e4aad437cfa4d",
-        "name" : "Actual result",
-        "source" : "7d8e4aad437cfa4d.html",
-        "type" : "text/plain",
-        "size" : 84
       } ],
       "parameters" : [ ],
       "stepsCount" : 24,
-      "attachmentsCount" : 26,
+      "attachmentsCount" : 25,
       "shouldDisplayMessage" : false,
       "hasContent" : true
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
     "stepsCount" : 25,
-    "attachmentsCount" : 26,
+    "attachmentsCount" : 25,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   },
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1630601890726,
-      "stop" : 1630601890726,
+      "start" : 1630602201066,
+      "stop" : 1630602201066,
       "duration" : 0
     },
     "description" : "",
@@ -907,7 +655,7 @@
     "value" : "org.mytests.tests.example.DataTableTests"
   }, {
     "name" : "testMethod",
-    "value" : "allDataFilterTest"
+    "value" : "rowsAllTest"
   }, {
     "name" : "parentSuite",
     "value" : "JDI-Light Performance"
@@ -919,10 +667,10 @@
     "value" : "org.mytests.tests.example.DataTableTests"
   }, {
     "name" : "host",
-    "value" : "fv-az270-322"
+    "value" : "fv-az54-108"
   }, {
     "name" : "thread",
-    "value" : "4332@fv-az270-322.TestNG-test=Tests-3(21)"
+    "value" : "4288@fv-az54-108.TestNG-test=Tests-3(22)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -943,6 +691,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a9ea0cc23364ffa5.json",
+  "source" : "92cbbf800fccf86b.json",
   "parameterValues" : [ ]
 }
