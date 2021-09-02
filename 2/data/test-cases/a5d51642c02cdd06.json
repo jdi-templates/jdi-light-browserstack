@@ -1,12 +1,12 @@
 {
-  "uid" : "ce0c5b0d6845ecc5",
+  "uid" : "a5d51642c02cdd06",
   "name" : "valueTest",
   "fullName" : "org.mytests.tests.example.DataTableTests.valueTest",
   "historyId" : "6520e44b29d01909cf6c6f2a3dc20718",
   "time" : {
-    "start" : 1630601206372,
-    "stop" : 1630601206468,
-    "duration" : 96
+    "start" : 1630601580007,
+    "stop" : 1630601580112,
+    "duration" : 105
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,18 +14,18 @@
   "beforeStages" : [ {
     "name" : "before",
     "time" : {
-      "start" : 1630601206240,
-      "stop" : 1630601206370,
-      "duration" : 130
+      "start" : 1630601579908,
+      "stop" : 1630601580006,
+      "duration" : 98
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ {
       "name" : "shouldBeLoggedIn",
       "time" : {
-        "start" : 1630601206241,
-        "stop" : 1630601206370,
-        "duration" : 129
+        "start" : 1630601579908,
+        "stop" : 1630601580006,
+        "duration" : 98
       },
       "status" : "passed",
       "steps" : [ ],
@@ -45,26 +45,26 @@
   }, {
     "name" : "setUp",
     "time" : {
-      "start" : 1630600990079,
-      "stop" : 1630600996759,
-      "duration" : 6680
+      "start" : 1630601333321,
+      "stop" : 1630601341134,
+      "duration" : 7813
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ {
       "name" : "Open 'SiteJdi'(url=https://jdi-testing.github.io/jdi-light/)",
       "time" : {
-        "start" : 1630600991955,
-        "stop" : 1630600996758,
-        "duration" : 4803
+        "start" : 1630601335327,
+        "stop" : 1630601341129,
+        "duration" : 5802
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "Open 'SiteJdi'(url=https://jdi-testing.github.io/jdi-light/)",
         "time" : {
-          "start" : 1630600995850,
-          "stop" : 1630600996757,
-          "duration" : 907
+          "start" : 1630601339589,
+          "stop" : 1630601341129,
+          "duration" : 1540
         },
         "status" : "passed",
         "steps" : [ ],
@@ -76,9 +76,9 @@
         "hasContent" : false
       } ],
       "attachments" : [ {
-        "uid" : "51217eae5878f38b",
+        "uid" : "89bf965df45cc80a",
         "name" : "Details",
-        "source" : "51217eae5878f38b.html",
+        "source" : "89bf965df45cc80a.html",
         "type" : "text/plain",
         "size" : 145
       } ],
@@ -100,24 +100,24 @@
     "steps" : [ {
       "name" : "Get 'Users' table value",
       "time" : {
-        "start" : 1630601206373,
-        "stop" : 1630601206467,
-        "duration" : 94
+        "start" : 1630601580009,
+        "stop" : 1630601580111,
+        "duration" : 102
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "Get all 'Users' rows",
         "time" : {
-          "start" : 1630601206455,
-          "stop" : 1630601206456,
-          "duration" : 1
+          "start" : 1630601580093,
+          "stop" : 1630601580095,
+          "duration" : 2
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ {
-          "uid" : "c91a0ec0bb676e5c",
+          "uid" : "bfcee808cda53c62",
           "name" : "Actual result",
-          "source" : "c91a0ec0bb676e5c.html",
+          "source" : "bfcee808cda53c62.html",
           "type" : "text/plain",
           "size" : 553
         } ],
@@ -129,16 +129,16 @@
       }, {
         "name" : "Get 'Users' rows count",
         "time" : {
-          "start" : 1630601206457,
-          "stop" : 1630601206458,
-          "duration" : 1
+          "start" : 1630601580097,
+          "stop" : 1630601580099,
+          "duration" : 2
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ {
-          "uid" : "b8fd92f75e871ed2",
+          "uid" : "f2917508a38b13ef",
           "name" : "Actual result",
-          "source" : "b8fd92f75e871ed2.html",
+          "source" : "f2917508a38b13ef.html",
           "type" : "text/plain",
           "size" : 1
         } ],
@@ -150,16 +150,16 @@
       }, {
         "name" : "Get 'Users' header",
         "time" : {
-          "start" : 1630601206459,
-          "stop" : 1630601206460,
+          "start" : 1630601580100,
+          "stop" : 1630601580101,
           "duration" : 1
         },
         "status" : "passed",
         "steps" : [ ],
         "attachments" : [ {
-          "uid" : "f9df0dff803fb664",
+          "uid" : "c478ee4be254f396",
           "name" : "Actual result",
-          "source" : "f9df0dff803fb664.html",
+          "source" : "c478ee4be254f396.html",
           "type" : "text/plain",
           "size" : 33
         } ],
@@ -170,15 +170,15 @@
         "hasContent" : true
       } ],
       "attachments" : [ {
-        "uid" : "8717b74432ce6d95",
+        "uid" : "4f6760d4b25d7b00",
         "name" : "Details",
-        "source" : "8717b74432ce6d95.html",
+        "source" : "4f6760d4b25d7b00.html",
         "type" : "text/plain",
         "size" : 35
       }, {
-        "uid" : "c33bb364da2dc264",
+        "uid" : "58dd7f51bf42a4d7",
         "name" : "Actual result",
-        "source" : "c33bb364da2dc264.html",
+        "source" : "58dd7f51bf42a4d7.html",
         "type" : "text/plain",
         "size" : 340
       } ],
@@ -198,8 +198,8 @@
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1630601206495,
-      "stop" : 1630601206495,
+      "start" : 1630601580148,
+      "stop" : 1630601580148,
       "duration" : 0
     },
     "description" : "",
@@ -232,10 +232,10 @@
     "value" : "org.mytests.tests.example.DataTableTests"
   }, {
     "name" : "host",
-    "value" : "fv-az54-108"
+    "value" : "fv-az32-797"
   }, {
     "name" : "thread",
-    "value" : "4334@fv-az54-108.TestNG-test=Tests-3(21)"
+    "value" : "4368@fv-az32-797.TestNG-test=Tests-3(21)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -256,6 +256,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ce0c5b0d6845ecc5.json",
+  "source" : "a5d51642c02cdd06.json",
   "parameterValues" : [ ]
 }
