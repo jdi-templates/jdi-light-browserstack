@@ -3,22 +3,22 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "[22:41.494] Can't get WebDriver: firefox",
+      "name" : "[25:41.797] Can't get WebDriver: firefox",
       "children" : [ {
         "name" : "setUp",
-        "uid" : "39c803795794081b",
-        "parentUid" : "c3a597aa866cf81b45d25772102e2b35",
+        "uid" : "143112ffbaf4c581",
+        "parentUid" : "5abc0d7038f268383ad76e07e02a153a",
         "status" : "broken",
         "time" : {
-          "start" : 1630599761530,
-          "stop" : 1630599761533,
-          "duration" : 3
+          "start" : 1630599941845,
+          "stop" : 1630599941849,
+          "duration" : 4
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "c3a597aa866cf81b45d25772102e2b35"
+      "uid" : "5abc0d7038f268383ad76e07e02a153a"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],

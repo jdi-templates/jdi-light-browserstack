@@ -3,12 +3,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "4ee3ced92dae7622",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/4ee3ced92dae7622",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942059,
+        "stop" : 1630599942066,
+        "duration" : 7
+      }
+    }, {
       "uid" : "31b83810b8de41c6",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/31b83810b8de41c6",
       "status" : "skipped",
@@ -24,12 +34,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "542253f331953571",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/542253f331953571",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942259,
+        "stop" : 1630599942259,
+        "duration" : 0
+      }
+    }, {
       "uid" : "40ea9cb5c7dc9bb1",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/40ea9cb5c7dc9bb1",
       "status" : "skipped",
@@ -45,12 +65,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "b1e65b303bc6a455",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/b1e65b303bc6a455",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942065,
+        "stop" : 1630599942065,
+        "duration" : 0
+      }
+    }, {
       "uid" : "9ffbbd493bc7243d",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/9ffbbd493bc7243d",
       "status" : "skipped",
@@ -66,12 +96,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "d29fa15d1ddfc40b",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/d29fa15d1ddfc40b",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942095,
+        "stop" : 1630599942098,
+        "duration" : 3
+      }
+    }, {
       "uid" : "9086eeedabc1bf43",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/9086eeedabc1bf43",
       "status" : "skipped",
@@ -87,12 +127,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "d9197f16a731a61d",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/d9197f16a731a61d",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942185,
+        "stop" : 1630599942185,
+        "duration" : 0
+      }
+    }, {
       "uid" : "df79512dc0cc2c0a",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/df79512dc0cc2c0a",
       "status" : "skipped",
@@ -108,12 +158,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "657b22dce6851361",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/657b22dce6851361",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942218,
+        "stop" : 1630599942218,
+        "duration" : 0
+      }
+    }, {
       "uid" : "6dcecc3555d3a5da",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/6dcecc3555d3a5da",
       "status" : "skipped",
@@ -129,12 +189,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "b0816c704420e70b",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/b0816c704420e70b",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942104,
+        "stop" : 1630599942104,
+        "duration" : 0
+      }
+    }, {
       "uid" : "f25a9ef0956749a9",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/f25a9ef0956749a9",
       "status" : "skipped",
@@ -150,12 +220,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "461e44a63e16456a",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/461e44a63e16456a",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942085,
+        "stop" : 1630599942086,
+        "duration" : 1
+      }
+    }, {
       "uid" : "2771678afc94e740",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/2771678afc94e740",
       "status" : "skipped",
@@ -171,12 +251,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "badac60c90e226e3",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/badac60c90e226e3",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942078,
+        "stop" : 1630599942078,
+        "duration" : 0
+      }
+    }, {
       "uid" : "6e5f2185e3cf1497",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/6e5f2185e3cf1497",
       "status" : "skipped",
@@ -192,12 +282,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "84e8569cacaff687",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/84e8569cacaff687",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942050,
+        "stop" : 1630599942070,
+        "duration" : 20
+      }
+    }, {
       "uid" : "7ec9c59631d20309",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/7ec9c59631d20309",
       "status" : "skipped",
@@ -213,12 +313,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "ee865bda256b5da3",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/ee865bda256b5da3",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942239,
+        "stop" : 1630599942239,
+        "duration" : 0
+      }
+    }, {
       "uid" : "d252b7d779d481e6",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/d252b7d779d481e6",
       "status" : "skipped",
@@ -234,12 +344,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "2cfa92a7c09815",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/2cfa92a7c09815",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942152,
+        "stop" : 1630599942152,
+        "duration" : 0
+      }
+    }, {
       "uid" : "7ddb00bc83bf5954",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/7ddb00bc83bf5954",
       "status" : "skipped",
@@ -255,12 +375,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "abc476dab9507b92",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/abc476dab9507b92",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942244,
+        "stop" : 1630599942245,
+        "duration" : 1
+      }
+    }, {
       "uid" : "94b306a7abaf1b10",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/94b306a7abaf1b10",
       "status" : "skipped",
@@ -276,12 +406,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "955481cd63f741a4",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/955481cd63f741a4",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942138,
+        "stop" : 1630599942138,
+        "duration" : 0
+      }
+    }, {
       "uid" : "25cd767110f775f3",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/25cd767110f775f3",
       "status" : "skipped",
@@ -297,12 +437,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "c9e154d4e677b17",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/c9e154d4e677b17",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942165,
+        "stop" : 1630599942166,
+        "duration" : 1
+      }
+    }, {
       "uid" : "64ea27776356b0cc",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/64ea27776356b0cc",
       "status" : "skipped",
@@ -318,12 +468,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "8c8481b743ccdc49",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/8c8481b743ccdc49",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942051,
+        "stop" : 1630599942053,
+        "duration" : 2
+      }
+    }, {
       "uid" : "6c41dc0b271d52eb",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/6c41dc0b271d52eb",
       "status" : "skipped",
@@ -339,12 +499,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "4b078b064c2d633",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/4b078b064c2d633",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942076,
+        "stop" : 1630599942081,
+        "duration" : 5
+      }
+    }, {
       "uid" : "40a97e9b1814ea3c",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/40a97e9b1814ea3c",
       "status" : "skipped",
@@ -360,12 +530,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "d729f718605de40a",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/d729f718605de40a",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942178,
+        "stop" : 1630599942178,
+        "duration" : 0
+      }
+    }, {
       "uid" : "e1fcb36e27c334f1",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/e1fcb36e27c334f1",
       "status" : "skipped",
@@ -381,12 +561,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "f566dcffc7121f92",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/f566dcffc7121f92",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942196,
+        "stop" : 1630599942196,
+        "duration" : 0
+      }
+    }, {
       "uid" : "14f1cc9156afff4f",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/14f1cc9156afff4f",
       "status" : "skipped",
@@ -402,12 +592,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "67bcee9867df0340",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/67bcee9867df0340",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942059,
+        "stop" : 1630599942063,
+        "duration" : 4
+      }
+    }, {
       "uid" : "d16de857ac723b2d",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/d16de857ac723b2d",
       "status" : "skipped",
@@ -423,12 +623,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "8d17776a3249ffa5",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/8d17776a3249ffa5",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942109,
+        "stop" : 1630599942109,
+        "duration" : 0
+      }
+    }, {
       "uid" : "cdd92a70e6d3e553",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/cdd92a70e6d3e553",
       "status" : "skipped",
@@ -443,13 +653,23 @@
   "8ba00e4784905a40d4008a5c023e4eca" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "143112ffbaf4c581",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/143112ffbaf4c581",
+      "status" : "broken",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599941845,
+        "stop" : 1630599941849,
+        "duration" : 4
+      }
+    }, {
       "uid" : "39c803795794081b",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/39c803795794081b",
       "status" : "broken",
@@ -465,12 +685,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "d030e505d2e299f2",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/d030e505d2e299f2",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942072,
+        "stop" : 1630599942073,
+        "duration" : 1
+      }
+    }, {
       "uid" : "376483aa34983189",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/376483aa34983189",
       "status" : "skipped",
@@ -486,12 +716,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "23beb169b87e4990",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/23beb169b87e4990",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942170,
+        "stop" : 1630599942171,
+        "duration" : 1
+      }
+    }, {
       "uid" : "e9a8e4bcd5a14997",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/e9a8e4bcd5a14997",
       "status" : "skipped",
@@ -507,12 +747,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "5b626d297fa3b4f0",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/5b626d297fa3b4f0",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942252,
+        "stop" : 1630599942253,
+        "duration" : 1
+      }
+    }, {
       "uid" : "c43998779f008314",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/c43998779f008314",
       "status" : "skipped",
@@ -528,12 +778,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "7ac70dfaf38b1709",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/7ac70dfaf38b1709",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942102,
+        "stop" : 1630599942103,
+        "duration" : 1
+      }
+    }, {
       "uid" : "8ed2d46e6da03814",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/8ed2d46e6da03814",
       "status" : "skipped",
@@ -549,12 +809,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "94e21bb5ab135ecb",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/94e21bb5ab135ecb",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942111,
+        "stop" : 1630599942111,
+        "duration" : 0
+      }
+    }, {
       "uid" : "ca0108ea25e8fcb2",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/ca0108ea25e8fcb2",
       "status" : "skipped",
@@ -570,12 +840,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "c7d4fa4d1322310d",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/c7d4fa4d1322310d",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942050,
+        "stop" : 1630599942052,
+        "duration" : 2
+      }
+    }, {
       "uid" : "2b725472dec040ab",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/2b725472dec040ab",
       "status" : "skipped",
@@ -591,12 +871,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "72645c3150d45cba",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/72645c3150d45cba",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942103,
+        "stop" : 1630599942104,
+        "duration" : 1
+      }
+    }, {
       "uid" : "975ebf237227b9bc",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/975ebf237227b9bc",
       "status" : "skipped",
@@ -612,12 +902,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "9d1c7a9c4283590a",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/9d1c7a9c4283590a",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942223,
+        "stop" : 1630599942223,
+        "duration" : 0
+      }
+    }, {
       "uid" : "5b5f5320b76594cf",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/5b5f5320b76594cf",
       "status" : "skipped",
@@ -633,12 +933,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "db102e226417fd0f",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/db102e226417fd0f",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942205,
+        "stop" : 1630599942206,
+        "duration" : 1
+      }
+    }, {
       "uid" : "849d38bcbd48f073",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/849d38bcbd48f073",
       "status" : "skipped",
@@ -654,12 +964,22 @@
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 2,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "641530e4d77cada7",
+      "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/641530e4d77cada7",
+      "status" : "skipped",
+      "statusDetails" : "[25:41.797] Can't get WebDriver: firefox",
+      "time" : {
+        "start" : 1630599942143,
+        "stop" : 1630599942144,
+        "duration" : 1
+      }
+    }, {
       "uid" : "512cf2953d56c678",
       "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1//#testresult/512cf2953d56c678",
       "status" : "skipped",
