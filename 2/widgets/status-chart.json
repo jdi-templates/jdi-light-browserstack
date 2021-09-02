@@ -1,310 +1,310 @@
 [ {
-  "uid" : "547292400167d407",
-  "name" : "fillContactsTest",
-  "time" : {
-    "start" : 1630602070186,
-    "stop" : 1630602081332,
-    "duration" : 11146
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "66d9127bf3e88f4d",
-  "name" : "atLeastTest",
-  "time" : {
-    "start" : 1630602057778,
-    "stop" : 1630602070880,
-    "duration" : 13102
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2e216d1be7683111",
-  "name" : "rowMatcherTest",
-  "time" : {
-    "start" : 1630602124646,
-    "stop" : 1630602129049,
-    "duration" : 4403
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4f3d5c272f5b7c06",
-  "name" : "tableChainTest",
-  "time" : {
-    "start" : 1630602142178,
-    "stop" : 1630602200735,
-    "duration" : 58557
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "891c6c034bdfb28a",
-  "name" : "previewTest",
-  "time" : {
-    "start" : 1630602109217,
-    "stop" : 1630602109441,
-    "duration" : 224
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6fff33127e81e9ac",
-  "name" : "rowTableMatcherSingleTest",
-  "time" : {
-    "start" : 1630602129196,
-    "stop" : 1630602130533,
-    "duration" : 1337
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "868754d66aaaa6e4",
-  "name" : "valueTest",
-  "time" : {
-    "start" : 1630602200945,
-    "stop" : 1630602201048,
-    "duration" : 103
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ad00e436459b4a8d",
-  "name" : "noRowsTest",
-  "time" : {
-    "start" : 1630602098544,
-    "stop" : 1630602109122,
-    "duration" : 10578
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c6a0f52906b0bcc0",
-  "name" : "loginTest",
-  "time" : {
-    "start" : 1630602081334,
-    "stop" : 1630602088931,
-    "duration" : 7597
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5a174d69eecef636",
-  "name" : "hugeTableSearchTest",
-  "time" : {
-    "start" : 1630602042854,
-    "stop" : 1630602051341,
-    "duration" : 8487
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6cdea009dbd9cd87",
-  "name" : "rowDataMatcherTest",
-  "time" : {
-    "start" : 1630602120565,
-    "stop" : 1630602124497,
-    "duration" : 3932
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8c7c978e78f09cf",
-  "name" : "dataFilterTest",
-  "time" : {
-    "start" : 1630602085872,
-    "stop" : 1630602087459,
-    "duration" : 1587
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab17ddabf5157fcf",
-  "name" : "hugeTableValidateTest",
-  "time" : {
-    "start" : 1630602051508,
-    "stop" : 1630602057940,
-    "duration" : 6432
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "557ae74a54747c3d",
-  "name" : "bigDropdownTest",
-  "time" : {
-    "start" : 1630602034796,
-    "stop" : 1630602042609,
-    "duration" : 7813
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "487f76324a32c68c",
-  "name" : "dataColumnNameTest",
-  "time" : {
-    "start" : 1630602079327,
-    "stop" : 1630602083435,
-    "duration" : 4108
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "18c519c265c1baf3",
-  "name" : "commonMatchersTest",
-  "time" : {
-    "start" : 1630602071014,
-    "stop" : 1630602079082,
-    "duration" : 8068
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1237e0af1b87bf5b",
-  "name" : "lineByIndexTest",
-  "time" : {
-    "start" : 1630602033329,
-    "stop" : 1630602042297,
-    "duration" : 8968
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1c21fe6c6fc4b3ec",
-  "name" : "rowDataExactMatcherTest",
-  "time" : {
-    "start" : 1630602109534,
-    "stop" : 1630602120458,
-    "duration" : 10924
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a51ebae21a9c04bc",
-  "name" : "longTextTest",
-  "time" : {
-    "start" : 1630602058281,
-    "stop" : 1630602058447,
-    "duration" : 166
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "245eef95be286fdb",
-  "name" : "lineFilterTest",
-  "time" : {
-    "start" : 1630602057282,
-    "stop" : 1630602061337,
-    "duration" : 4055
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "92cbbf800fccf86b",
-  "name" : "rowsAllTest",
-  "time" : {
-    "start" : 1630602132173,
-    "stop" : 1630602142066,
-    "duration" : 9893
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "51364e9eccab7eb3",
-  "name" : "menuTest",
-  "time" : {
-    "start" : 1630602066668,
-    "stop" : 1630602080933,
-    "duration" : 14265
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "fbb980c318979a65",
-  "name" : "tableParamsTest",
-  "time" : {
-    "start" : 1630602200839,
-    "stop" : 1630602200856,
-    "duration" : 17
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "cf446f3681cae6f9",
+  "uid" : "1ee40cdc3fe1284f",
   "name" : "dataColumnTestIndex",
   "time" : {
-    "start" : 1630602083599,
-    "stop" : 1630602085689,
-    "duration" : 2090
+    "start" : 1630602425641,
+    "stop" : 1630602427872,
+    "duration" : 2231
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4a50c54cbca615f0",
-  "name" : "exactMatcherTest",
+  "uid" : "f36c723a4284b1b4",
+  "name" : "rowTableMatcherSingleTest",
   "time" : {
-    "start" : 1630602087619,
-    "stop" : 1630602098447,
-    "duration" : 10828
+    "start" : 1630602474930,
+    "stop" : 1630602476403,
+    "duration" : 1473
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4a6642ca22ce0c5e",
-  "name" : "lineByNameTest",
-  "time" : {
-    "start" : 1630602042579,
-    "stop" : 1630602057034,
-    "duration" : 14455
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ddcfcf45901a5e2",
-  "name" : "customMenuTest",
-  "time" : {
-    "start" : 1630602032847,
-    "stop" : 1630602065620,
-    "duration" : 32773
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3877a31df6b1b918",
-  "name" : "allDataFilterTest",
-  "time" : {
-    "start" : 1630602035389,
-    "stop" : 1630602057567,
-    "duration" : 22178
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dd6ef4d4df690f4a",
-  "name" : "fillContactFormTest",
-  "time" : {
-    "start" : 1630601992990,
-    "stop" : 1630602070184,
-    "duration" : 77194
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4b6115793f3a014c",
+  "uid" : "b5adad00a73664fb",
   "name" : "linesFilterTest",
   "time" : {
-    "start" : 1630602061491,
-    "stop" : 1630602066475,
-    "duration" : 4984
+    "start" : 1630602401965,
+    "stop" : 1630602406878,
+    "duration" : 4913
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2ec758ca836481f9",
+  "uid" : "f6a3bdb8cc80adf3",
+  "name" : "rowDataExactMatcherTest",
+  "time" : {
+    "start" : 1630602453660,
+    "stop" : 1630602465009,
+    "duration" : 11349
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e3a7b031a3ec264",
+  "name" : "previewTest",
+  "time" : {
+    "start" : 1630602453203,
+    "stop" : 1630602453512,
+    "duration" : 309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d55b9e5edc26e306",
+  "name" : "menuTest",
+  "time" : {
+    "start" : 1630602408242,
+    "stop" : 1630602423150,
+    "duration" : 14908
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5103394ed721efc2",
+  "name" : "tableChainTest",
+  "time" : {
+    "start" : 1630602489331,
+    "stop" : 1630602554880,
+    "duration" : 65549
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd745c3aa2eab414",
+  "name" : "fillContactsTest",
+  "time" : {
+    "start" : 1630602410286,
+    "stop" : 1630602422266,
+    "duration" : 11980
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5872fd694ab19606",
+  "name" : "tableParamsTest",
+  "time" : {
+    "start" : 1630602554991,
+    "stop" : 1630602555005,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d970d738b1730f2b",
+  "name" : "dataColumnNameTest",
+  "time" : {
+    "start" : 1630602420867,
+    "stop" : 1630602425484,
+    "duration" : 4617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c26a69acbc7a6b",
+  "name" : "lineByNameTest",
+  "time" : {
+    "start" : 1630602381637,
+    "stop" : 1630602396978,
+    "duration" : 15341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "255d1fcafc405488",
+  "name" : "atLeastTest",
+  "time" : {
+    "start" : 1630602397785,
+    "stop" : 1630602412106,
+    "duration" : 14321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd654e4269de5c40",
+  "name" : "rowsAllTest",
+  "time" : {
+    "start" : 1630602478137,
+    "stop" : 1630602489224,
+    "duration" : 11087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ef9b6a73acc2f15",
+  "name" : "valueTest",
+  "time" : {
+    "start" : 1630602555110,
+    "stop" : 1630602555232,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98c9353c59206bfe",
+  "name" : "customMenuTest",
+  "time" : {
+    "start" : 1630602370029,
+    "stop" : 1630602407310,
+    "duration" : 37281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "317dcc8845d8e6b9",
+  "name" : "longTextTest",
+  "time" : {
+    "start" : 1630602397073,
+    "stop" : 1630602397424,
+    "duration" : 351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46933bbbe9008360",
+  "name" : "lineByIndexTest",
+  "time" : {
+    "start" : 1630602373537,
+    "stop" : 1630602381382,
+    "duration" : 7845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cd62d30cb7e674e",
+  "name" : "rowDataMatcherTest",
+  "time" : {
+    "start" : 1630602465111,
+    "stop" : 1630602469989,
+    "duration" : 4878
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3f4339b8086080b3",
+  "name" : "fillContactFormTest",
+  "time" : {
+    "start" : 1630602324717,
+    "stop" : 1630602410284,
+    "duration" : 85567
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c595c39ae2fb61a",
+  "name" : "hugeTableValidateTest",
+  "time" : {
+    "start" : 1630602389853,
+    "stop" : 1630602396784,
+    "duration" : 6931
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1802bd340ceb4030",
+  "name" : "hugeTableSearchTest",
+  "time" : {
+    "start" : 1630602379318,
+    "stop" : 1630602389641,
+    "duration" : 10323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2479fa3d7f08a05",
+  "name" : "dataFilterTest",
+  "time" : {
+    "start" : 1630602427992,
+    "stop" : 1630602429688,
+    "duration" : 1696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "643fda847a50f7cd",
+  "name" : "noRowsTest",
+  "time" : {
+    "start" : 1630602441333,
+    "stop" : 1630602453088,
+    "duration" : 11755
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd5bada67d2c3a25",
+  "name" : "lineFilterTest",
+  "time" : {
+    "start" : 1630602397363,
+    "stop" : 1630602401728,
+    "duration" : 4365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "912830d438f2bc1",
   "name" : "rowTableMatcherTest",
   "time" : {
-    "start" : 1630602130625,
-    "stop" : 1630602132074,
-    "duration" : 1449
+    "start" : 1630602476519,
+    "stop" : 1630602478044,
+    "duration" : 1525
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a529f32c34469e65",
+  "name" : "rowMatcherTest",
+  "time" : {
+    "start" : 1630602470100,
+    "stop" : 1630602474781,
+    "duration" : 4681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbe26fafb7b1e5be",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1630602422273,
+    "stop" : 1630602430656,
+    "duration" : 8383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a4a8478caceaf4c",
+  "name" : "exactMatcherTest",
+  "time" : {
+    "start" : 1630602429856,
+    "stop" : 1630602441169,
+    "duration" : 11313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "762042bc89000827",
+  "name" : "allDataFilterTest",
+  "time" : {
+    "start" : 1630602372543,
+    "stop" : 1630602397611,
+    "duration" : 25068
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89c7ece7f071a724",
+  "name" : "bigDropdownTest",
+  "time" : {
+    "start" : 1630602371180,
+    "stop" : 1630602378996,
+    "duration" : 7816
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "490d82423ef37c17",
+  "name" : "commonMatchersTest",
+  "time" : {
+    "start" : 1630602412288,
+    "stop" : 1630602420702,
+    "duration" : 8414
   },
   "status" : "passed",
   "severity" : "normal"
