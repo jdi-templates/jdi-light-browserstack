@@ -1,29 +1,8 @@
 [ {
-  "buildOrder" : 1,
-  "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 344
-  }
-}, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 386
-  }
-}, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 277
-  }
-}, {
   "buildOrder" : 2,
   "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/2/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 228917
+    "duration" : 237718
   }
 } ]
