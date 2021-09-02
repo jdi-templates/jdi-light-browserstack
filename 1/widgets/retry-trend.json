@@ -7,6 +7,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 1,
+  "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 32,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 2,
   "reportUrl" : "https://jdi-templates.github.io/jdi-light-browserstack/2/",
   "reportName" : "Allure Report with history",
