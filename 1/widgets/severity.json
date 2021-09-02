@@ -1,320 +1,320 @@
 [ {
-  "uid" : "96accfb95efa0853",
-  "name" : "exactMatcherTest",
-  "time" : {
-    "start" : 1630600567877,
-    "stop" : 1630600567877,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "87cfbb73f51c36b7",
-  "name" : "dataColumnNameTest",
-  "time" : {
-    "start" : 1630600567860,
-    "stop" : 1630600567863,
-    "duration" : 3
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "34f169d618ae4f0",
-  "name" : "dataFilterTest",
-  "time" : {
-    "start" : 1630600567872,
-    "stop" : 1630600567872,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "efda45730f34d459",
-  "name" : "bigDropdownTest",
-  "time" : {
-    "start" : 1630600567794,
-    "stop" : 1630600567795,
-    "duration" : 1
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "b3c366cd0c20b0d1",
-  "name" : "loginTest",
-  "time" : {
-    "start" : 1630600567828,
-    "stop" : 1630600567828,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "a35d7f831affc5b6",
-  "name" : "dataColumnTestIndex",
-  "time" : {
-    "start" : 1630600567866,
-    "stop" : 1630600567866,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "6dfe99f0a1190940",
-  "name" : "rowTableMatcherSingleTest",
-  "time" : {
-    "start" : 1630600567945,
-    "stop" : 1630600567945,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "d60ede9bb79e905",
-  "name" : "lineByNameTest",
-  "time" : {
-    "start" : 1630600567812,
-    "stop" : 1630600567812,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "d36d6d25cc668b3a",
-  "name" : "hugeTableSearchTest",
-  "time" : {
-    "start" : 1630600567807,
-    "stop" : 1630600567807,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "edb1a65b09085a8",
-  "name" : "atLeastTest",
-  "time" : {
-    "start" : 1630600567829,
-    "stop" : 1630600567830,
-    "duration" : 1
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "77a393dbbf4b56da",
-  "name" : "lineByIndexTest",
-  "time" : {
-    "start" : 1630600567797,
-    "stop" : 1630600567797,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "1ff1ceaf6949d464",
-  "name" : "rowTableMatcherTest",
-  "time" : {
-    "start" : 1630600567948,
-    "stop" : 1630600567949,
-    "duration" : 1
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "87bbe5e0f83cd865",
-  "name" : "customMenuTest",
-  "time" : {
-    "start" : 1630600567793,
-    "stop" : 1630600567794,
-    "duration" : 1
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "1136c26355c976c7",
-  "name" : "linesFilterTest",
-  "time" : {
-    "start" : 1630600567824,
-    "stop" : 1630600567824,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "ea5a2ee6b976daa0",
-  "name" : "rowMatcherTest",
-  "time" : {
-    "start" : 1630600567940,
-    "stop" : 1630600567940,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "b9f57b33ca8bf327",
+  "uid" : "ab7370acb8b5794b",
   "name" : "setUp",
   "time" : {
-    "start" : 1630600567636,
-    "stop" : 1630600567637,
+    "start" : 1630600679644,
+    "stop" : 1630600679645,
     "duration" : 1
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "2cc5612b340805f0",
-  "name" : "allDataFilterTest",
-  "time" : {
-    "start" : 1630600567800,
-    "stop" : 1630600567800,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "97e88bcdb1a5c495",
-  "name" : "rowsAllTest",
-  "time" : {
-    "start" : 1630600567955,
-    "stop" : 1630600567955,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "1008a641568e6033",
-  "name" : "rowDataExactMatcherTest",
-  "time" : {
-    "start" : 1630600567894,
-    "stop" : 1630600567894,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "2dad5cda3c49e3c5",
-  "name" : "longTextTest",
-  "time" : {
-    "start" : 1630600567840,
-    "stop" : 1630600567840,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "9649f5dd49a34169",
-  "name" : "fillContactsTest",
-  "time" : {
-    "start" : 1630600567826,
-    "stop" : 1630600567826,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "d03a331b127ef497",
-  "name" : "valueTest",
-  "time" : {
-    "start" : 1630600567966,
-    "stop" : 1630600567966,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "ba564ae97a887e25",
-  "name" : "tableParamsTest",
-  "time" : {
-    "start" : 1630600567964,
-    "stop" : 1630600567964,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "4a4deffeb40ca9cd",
-  "name" : "menuTest",
-  "time" : {
-    "start" : 1630600567810,
-    "stop" : 1630600567810,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "c8af78366511fe9b",
-  "name" : "previewTest",
-  "time" : {
-    "start" : 1630600567891,
-    "stop" : 1630600567891,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "2bf1bca0eae8da7a",
-  "name" : "rowDataMatcherTest",
-  "time" : {
-    "start" : 1630600567903,
-    "stop" : 1630600567904,
-    "duration" : 1
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "501e9a31114d283f",
-  "name" : "tableChainTest",
-  "time" : {
-    "start" : 1630600567957,
-    "stop" : 1630600567957,
-    "duration" : 0
-  },
-  "status" : "skipped",
-  "severity" : "normal"
-}, {
-  "uid" : "d475d5e88eac2dd",
+  "uid" : "3815b2fbe93e5da7",
   "name" : "noRowsTest",
   "time" : {
-    "start" : 1630600567884,
-    "stop" : 1630600567884,
+    "start" : 1630600679820,
+    "stop" : 1630600679820,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "86d5a7032070d84a",
-  "name" : "commonMatchersTest",
+  "uid" : "c8cb00b042eeb862",
+  "name" : "rowTableMatcherTest",
   "time" : {
-    "start" : 1630600567838,
-    "stop" : 1630600567838,
+    "start" : 1630600679847,
+    "stop" : 1630600679847,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "dc4c53bb6665b236",
-  "name" : "fillContactFormTest",
+  "uid" : "72dc06950a4b015b",
+  "name" : "menuTest",
   "time" : {
-    "start" : 1630600567792,
-    "stop" : 1630600567793,
+    "start" : 1630600679787,
+    "stop" : 1630600679787,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "24171a71de7ed757",
+  "name" : "customMenuTest",
+  "time" : {
+    "start" : 1630600679762,
+    "stop" : 1630600679763,
     "duration" : 1
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "df252b6e4253ea70",
-  "name" : "lineFilterTest",
+  "uid" : "2211dfde42243f57",
+  "name" : "rowDataExactMatcherTest",
   "time" : {
-    "start" : 1630600567822,
-    "stop" : 1630600567822,
+    "start" : 1630600679827,
+    "stop" : 1630600679827,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "4c8aa876c4d433c3",
+  "uid" : "a868e22f732ace0d",
+  "name" : "atLeastTest",
+  "time" : {
+    "start" : 1630600679772,
+    "stop" : 1630600679772,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "78ec6d991ab09967",
+  "name" : "tableChainTest",
+  "time" : {
+    "start" : 1630600679852,
+    "stop" : 1630600679852,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a9d79ebbf963ca05",
+  "name" : "rowDataMatcherTest",
+  "time" : {
+    "start" : 1630600679830,
+    "stop" : 1630600679830,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b6debab3246e7e2a",
+  "name" : "fillContactFormTest",
+  "time" : {
+    "start" : 1630600679773,
+    "stop" : 1630600679773,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3907f7c590c7183a",
+  "name" : "linesFilterTest",
+  "time" : {
+    "start" : 1630600679791,
+    "stop" : 1630600679791,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a616c6eb82a87de5",
+  "name" : "allDataFilterTest",
+  "time" : {
+    "start" : 1630600679753,
+    "stop" : 1630600679759,
+    "duration" : 6
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a03a83db62c89420",
   "name" : "hugeTableValidateTest",
   "time" : {
-    "start" : 1630600567831,
-    "stop" : 1630600567831,
+    "start" : 1630600679786,
+    "stop" : 1630600679786,
     "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2e804ffe7f7d71db",
+  "name" : "dataFilterTest",
+  "time" : {
+    "start" : 1630600679814,
+    "stop" : 1630600679814,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5fab3ab7f13217c1",
+  "name" : "lineByIndexTest",
+  "time" : {
+    "start" : 1630600679753,
+    "stop" : 1630600679760,
+    "duration" : 7
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1cadb797aa1ef529",
+  "name" : "dataColumnTestIndex",
+  "time" : {
+    "start" : 1630600679811,
+    "stop" : 1630600679811,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "714de843645f19f8",
+  "name" : "commonMatchersTest",
+  "time" : {
+    "start" : 1630600679789,
+    "stop" : 1630600679789,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cbcd17c3fc3c16cf",
+  "name" : "bigDropdownTest",
+  "time" : {
+    "start" : 1630600679750,
+    "stop" : 1630600679758,
+    "duration" : 8
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "96373b55a76ee6c8",
+  "name" : "dataColumnNameTest",
+  "time" : {
+    "start" : 1630600679803,
+    "stop" : 1630600679803,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cc8b5463b799888c",
+  "name" : "rowsAllTest",
+  "time" : {
+    "start" : 1630600679850,
+    "stop" : 1630600679850,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3429c36abca10ede",
+  "name" : "fillContactsTest",
+  "time" : {
+    "start" : 1630600679791,
+    "stop" : 1630600679791,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6eb0c46758ccba1a",
+  "name" : "rowTableMatcherSingleTest",
+  "time" : {
+    "start" : 1630600679836,
+    "stop" : 1630600679836,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "309f0736a4da4a64",
+  "name" : "longTextTest",
+  "time" : {
+    "start" : 1630600679796,
+    "stop" : 1630600679797,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "532f65e63cbb0230",
+  "name" : "hugeTableSearchTest",
+  "time" : {
+    "start" : 1630600679769,
+    "stop" : 1630600679777,
+    "duration" : 8
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ff49f10286ccf883",
+  "name" : "lineFilterTest",
+  "time" : {
+    "start" : 1630600679787,
+    "stop" : 1630600679788,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "584ca61a5c7fa563",
+  "name" : "valueTest",
+  "time" : {
+    "start" : 1630600679858,
+    "stop" : 1630600679858,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b47ec55b0fad28b4",
+  "name" : "rowMatcherTest",
+  "time" : {
+    "start" : 1630600679833,
+    "stop" : 1630600679833,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ae812ea4fcc5692d",
+  "name" : "exactMatcherTest",
+  "time" : {
+    "start" : 1630600679817,
+    "stop" : 1630600679817,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "9172293c7ebdf374",
+  "name" : "tableParamsTest",
+  "time" : {
+    "start" : 1630600679855,
+    "stop" : 1630600679855,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "2a1a6ceb544fb17d",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1630600679793,
+    "stop" : 1630600679793,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "207c81813760ecbb",
+  "name" : "previewTest",
+  "time" : {
+    "start" : 1630600679823,
+    "stop" : 1630600679824,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "69c78c0dd4f9cf83",
+  "name" : "lineByNameTest",
+  "time" : {
+    "start" : 1630600679771,
+    "stop" : 1630600679772,
+    "duration" : 1
   },
   "status" : "skipped",
   "severity" : "normal"
