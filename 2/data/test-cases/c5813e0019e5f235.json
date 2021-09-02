@@ -1,12 +1,12 @@
 {
-  "uid" : "da92728577b3adbb",
-  "name" : "rowTableMatcherSingleTest",
-  "fullName" : "org.mytests.tests.example.DataTableTests.rowTableMatcherSingleTest",
-  "historyId" : "a52aad8cd0f215e97afd46cabf45ae25",
+  "uid" : "c5813e0019e5f235",
+  "name" : "valueTest",
+  "fullName" : "org.mytests.tests.example.DataTableTests.valueTest",
+  "historyId" : "6520e44b29d01909cf6c6f2a3dc20718",
   "time" : {
-    "start" : 1630601499272,
-    "stop" : 1630601500761,
-    "duration" : 1489
+    "start" : 1630601890609,
+    "stop" : 1630601890704,
+    "duration" : 95
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,18 +14,18 @@
   "beforeStages" : [ {
     "name" : "before",
     "time" : {
-      "start" : 1630601499127,
-      "stop" : 1630601499270,
-      "duration" : 143
+      "start" : 1630601890518,
+      "stop" : 1630601890608,
+      "duration" : 90
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ {
       "name" : "shouldBeLoggedIn",
       "time" : {
-        "start" : 1630601499127,
-        "stop" : 1630601499270,
-        "duration" : 143
+        "start" : 1630601890519,
+        "stop" : 1630601890608,
+        "duration" : 89
       },
       "status" : "passed",
       "steps" : [ ],
@@ -45,26 +45,26 @@
   }, {
     "name" : "setUp",
     "time" : {
-      "start" : 1630601333321,
-      "stop" : 1630601341134,
-      "duration" : 7813
+      "start" : 1630601684488,
+      "stop" : 1630601690821,
+      "duration" : 6333
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ {
       "name" : "Open 'SiteJdi'(url=https://jdi-testing.github.io/jdi-light/)",
       "time" : {
-        "start" : 1630601335327,
-        "stop" : 1630601341129,
-        "duration" : 5802
+        "start" : 1630601686178,
+        "stop" : 1630601690796,
+        "duration" : 4618
       },
       "status" : "passed",
       "steps" : [ {
         "name" : "Open 'SiteJdi'(url=https://jdi-testing.github.io/jdi-light/)",
         "time" : {
-          "start" : 1630601339589,
-          "stop" : 1630601341129,
-          "duration" : 1540
+          "start" : 1630601689890,
+          "stop" : 1630601690795,
+          "duration" : 905
         },
         "status" : "passed",
         "steps" : [ ],
@@ -76,9 +76,9 @@
         "hasContent" : false
       } ],
       "attachments" : [ {
-        "uid" : "89bf965df45cc80a",
+        "uid" : "2f06694a52f67d5c",
         "name" : "Details",
-        "source" : "89bf965df45cc80a.html",
+        "source" : "2f06694a52f67d5c.html",
         "type" : "text/plain",
         "size" : 145
       } ],
@@ -98,102 +98,108 @@
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
-      "name" : "Assert that 'Users' has at least one row that 'has 'Sergey Ivan''",
+      "name" : "Get 'Users' table value",
       "time" : {
-        "start" : 1630601499281,
-        "stop" : 1630601500760,
-        "duration" : 1479
+        "start" : 1630601890610,
+        "stop" : 1630601890703,
+        "duration" : 93
       },
       "status" : "passed",
       "steps" : [ {
-        "name" : "Get 'Users' header",
+        "name" : "Get all 'Users' rows",
         "time" : {
-          "start" : 1630601499284,
-          "stop" : 1630601500264,
-          "duration" : 980
+          "start" : 1630601890689,
+          "stop" : 1630601890690,
+          "duration" : 1
         },
         "status" : "passed",
-        "steps" : [ {
-          "name" : "Get 'Users header' values",
-          "time" : {
-            "start" : 1630601499779,
-            "stop" : 1630601500264,
-            "duration" : 485
-          },
-          "status" : "passed",
-          "steps" : [ {
-            "name" : "Get '' text",
-            "time" : {
-              "start" : 1630601500218,
-              "stop" : 1630601500229,
-              "duration" : 11
-            },
-            "status" : "passed",
-            "steps" : [ ],
-            "attachments" : [ {
-              "uid" : "8550d8a4395ba805",
-              "name" : "Actual result",
-              "source" : "8550d8a4395ba805.html",
-              "type" : "text/plain",
-              "size" : 6
-            } ],
-            "parameters" : [ ],
-            "stepsCount" : 0,
-            "attachmentsCount" : 1,
-            "shouldDisplayMessage" : false,
-            "hasContent" : true
-          } ],
-          "attachments" : [ {
-            "uid" : "c796f2b6c47961b",
-            "name" : "Actual result",
-            "source" : "c796f2b6c47961b.html",
-            "type" : "text/plain",
-            "size" : 33
-          } ],
-          "parameters" : [ ],
-          "stepsCount" : 1,
-          "attachmentsCount" : 2,
-          "shouldDisplayMessage" : false,
-          "hasContent" : true
-        } ],
+        "steps" : [ ],
         "attachments" : [ {
-          "uid" : "d429321b439e78d0",
+          "uid" : "4870fec46fa84112",
           "name" : "Actual result",
-          "source" : "d429321b439e78d0.html",
+          "source" : "4870fec46fa84112.html",
+          "type" : "text/plain",
+          "size" : 553
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Get 'Users' rows count",
+        "time" : {
+          "start" : 1630601890691,
+          "stop" : 1630601890692,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "eb886eb93126ed73",
+          "name" : "Actual result",
+          "source" : "eb886eb93126ed73.html",
+          "type" : "text/plain",
+          "size" : 1
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "Get 'Users' header",
+        "time" : {
+          "start" : 1630601890693,
+          "stop" : 1630601890694,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "ea241bcb00800de5",
+          "name" : "Actual result",
+          "source" : "ea241bcb00800de5.html",
           "type" : "text/plain",
           "size" : 33
         } ],
         "parameters" : [ ],
-        "stepsCount" : 2,
-        "attachmentsCount" : 3,
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
         "shouldDisplayMessage" : false,
         "hasContent" : true
       } ],
       "attachments" : [ {
-        "uid" : "a3fa39e78f87cd7b",
+        "uid" : "8d4d2731af03e24b",
         "name" : "Details",
-        "source" : "a3fa39e78f87cd7b.html",
+        "source" : "8d4d2731af03e24b.html",
         "type" : "text/plain",
         "size" : 35
+      }, {
+        "uid" : "2c9404ea4d5f2f49",
+        "name" : "Actual result",
+        "source" : "2c9404ea4d5f2f49.html",
+        "type" : "text/plain",
+        "size" : 340
       } ],
       "parameters" : [ ],
       "stepsCount" : 3,
-      "attachmentsCount" : 4,
+      "attachmentsCount" : 5,
       "shouldDisplayMessage" : false,
       "hasContent" : true
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
     "stepsCount" : 4,
-    "attachmentsCount" : 4,
+    "attachmentsCount" : 5,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   },
   "afterStages" : [ {
     "name" : "tearDown",
     "time" : {
-      "start" : 1630601580148,
-      "stop" : 1630601580148,
+      "start" : 1630601890726,
+      "stop" : 1630601890726,
       "duration" : 0
     },
     "description" : "",
@@ -214,7 +220,7 @@
     "value" : "org.mytests.tests.example.DataTableTests"
   }, {
     "name" : "testMethod",
-    "value" : "rowTableMatcherSingleTest"
+    "value" : "valueTest"
   }, {
     "name" : "parentSuite",
     "value" : "JDI-Light Performance"
@@ -226,10 +232,10 @@
     "value" : "org.mytests.tests.example.DataTableTests"
   }, {
     "name" : "host",
-    "value" : "fv-az32-797"
+    "value" : "fv-az270-322"
   }, {
     "name" : "thread",
-    "value" : "4368@fv-az32-797.TestNG-test=Tests-3(21)"
+    "value" : "4332@fv-az270-322.TestNG-test=Tests-3(21)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -250,6 +256,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "da92728577b3adbb.json",
+  "source" : "c5813e0019e5f235.json",
   "parameterValues" : [ ]
 }
