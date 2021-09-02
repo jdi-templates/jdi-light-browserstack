@@ -14,20 +14,12 @@ public interface TestsInit {
 
     @BeforeSuite(alwaysRun = true)
     static void setUp() {
-        DRIVER.capabilities.safari.put("browserName", "iPhone");
-        DRIVER.capabilities.safari.put("device", "iPhone 11");
-        DRIVER.capabilities.safari.put("realMobile", "true");
-        DRIVER.capabilities.safari.put("os_version", "13");
-        DRIVER.capabilities.safari.put("name", "BStack iOS Sample Test");
-
-
         openSite(SiteJdi.class);
         logger.info("Run Tests");
     }
 
     @AfterSuite(alwaysRun = true)
-    static void teardown() {
-        killAllSeleniumDrivers();
+    static void tearDown() {
         WebDriverFactory.quit();
     }
 }
