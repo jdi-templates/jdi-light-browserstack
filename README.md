@@ -54,3 +54,8 @@ In order to run test with Browserstack you need set up remote settings in test.p
 > driver.remote.run=true
 
 And that it. Set Browserstack capabilities, set remote execution in test.properties and you can run test with Browserstack
+
+#### Alternative way to run tests using CLI (you don't need to set env properties preliminary in your OS)
+
+    mvn -DUSERNAME=your_user_name -DACCESS_KEY=your_access_key clean install
+    mvn allure:serve
