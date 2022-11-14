@@ -18,7 +18,7 @@
         <allure.testng>2.19.0</allure.testng>
         <allure.maven>2.11.2</allure.maven>
         <jetty.version>9.4.12.RC2</jetty.version>
-        <jdi.version>1.4.5</jdi.version>
+<!--        <jdi.version>1.4.5</jdi.version>-->
         <log4j2.version>2.17.1</log4j2.version>
         <USERNAME>kirillpoltorykhi_D3ILCJ</USERNAME>
         <ACCESS_KEY>KJpfnFzGy7rM64zpmueU</ACCESS_KEY>
@@ -41,7 +41,7 @@
         <dependency>
             <groupId>com.epam.jdi</groupId>
             <artifactId>jdi-light-html</artifactId>
-            <version>${jdi.version}</version>
+            <version>LATEST</version>
         </dependency>
 
         <!--Allure-->
