@@ -2,6 +2,7 @@ package org.mytests.tests;
 
 import com.epam.jdi.light.driver.WebDriverFactory;
 import org.mytests.uiobjects.example.site.SiteJdi;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
@@ -18,7 +19,8 @@ public interface TestsInit {
         logger.info("Run Tests");
     }
 
-    @AfterSuite(alwaysRun = true)
+//    @AfterSuite
+    @AfterClass(alwaysRun = true)
     static void tearDown() {
         WebDriverFactory.quit();
     }
