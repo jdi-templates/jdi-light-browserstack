@@ -22,6 +22,7 @@
         <log4j2.version>2.17.1</log4j2.version>
         <USERNAME>kirillpoltorykhi_D3ILCJ</USERNAME>
         <ACCESS_KEY>KJpfnFzGy7rM64zpmueU</ACCESS_KEY>
+        <aspectj.args></aspectj.args>
     </properties>
 
     <profiles>
@@ -106,6 +107,7 @@
                         <suiteXmlFile>src/test/resources/general.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <argLine>
+                        ${aspectj.args}
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                     </argLine>
                     <environmentVariables>
